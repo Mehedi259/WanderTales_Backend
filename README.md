@@ -221,6 +221,18 @@ This project is licensed under the MIT License.
 
 **Mehedi Hasan**
 - GitHub: [@Mehedi259](https://github.com/Mehedi259)
+- Email: mehedi259@gmail.com
+- Portfolio: [Coming soon]
+
+---
+
+## 📊 Project Stats
+
+- **Lines of Code**: 70,000+
+- **Files**: 500+
+- **Documentation**: 17 guides
+- **Technologies**: 20+
+- **Development Time**: 6 months
 
 ---
 
