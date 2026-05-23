@@ -141,10 +141,17 @@ docker-compose up -d
 - [🔐 Security Policy](./SECURITY.md) - Security guidelines
 - [🤝 Contributing](./CONTRIBUTING.md) - How to contribute
 - [📝 Changelog](./CHANGELOG.md) - Version history
-- [Backend Documentation](./backend/README.md)
-- [AI Service Documentation](./ai/README.md)
-- [Frontend Documentation](./landingpage/README.md)
-- [Deployment Guide](./infra/README.md)
+- [🚀 Deployment Guide](./DEPLOYMENT.md) - Production deployment
+- [🧪 Testing Guide](./TESTING.md) - Testing instructions
+- [🐳 Docker Guide](./DOCKER_GUIDE.md) - Docker usage
+- [⚙️ Environment Setup](./ENV_SETUP.md) - Configuration guide
+- [⚡ Performance](./PERFORMANCE.md) - Optimization tips
+- [🔧 Troubleshooting](./TROUBLESHOOTING.md) - Common issues
+- [✨ Features](./FEATURES.md) - Feature documentation
+- [❓ FAQ](./FAQ.md) - Frequently asked questions
+- [🗺️ Roadmap](./ROADMAP.md) - Future plans
+- [🎨 Screenshots](./SCREENSHOTS.md) - UI screenshots
+- [🙏 Credits](./CREDITS.md) - Acknowledgments
 
 ---
 
